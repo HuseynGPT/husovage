@@ -13,7 +13,8 @@
 
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=husovage)](https://github.com/husovage/github-readme-stats)
+
 
 
 
