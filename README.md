@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huseyn</h1>
-<h3 align="center">I'm a backend developer from Azerbaijan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
-
-- I'm currently study on **STEP IT Academy**
-
-- 👨‍💻 All of my projects are available at in my GitHub profile
-
+-  **STEP IT Academy**
 - 📫 How to reach me **hhuseynv2007@gmail.com**
 
 
