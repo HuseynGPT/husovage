@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huseyn</h1>
-<h3 align="center">I'm a backend developer from Azerbaijan</h3>
+<h3 align="center">Ibackend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
 -  **STEP IT Academy**
-
-- 👨‍💻 All of my projects are available at in my GitHub profile
-
+-  
 - 📫 How to reach me **hhuseynv2007@gmail.com**
 
 
@@ -13,7 +11,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=husovage)](https://github.com/husovage/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husovage&layout=donut)](https://github.com/husovage/github-readme-stats)
 
 
 
