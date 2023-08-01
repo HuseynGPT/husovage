@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/50886/screenshots/2710024/coding.gif">
 
 -  **STEP IT Academy**
--  
-- 📫 How to reach me **hhuseynv2007@gmail.com**
+
+- Email: **hhuseynv2007@gmail.com**
 
 
 
