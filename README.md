@@ -7,6 +7,18 @@
 - 👨‍💻 All of my projects are available at in my GitHub profile
 
 - 📫 How to reach me **hhuseynv2007@gmail.com**
+
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
+
+
+
+
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/track/0tdCy39PgWN8LFWu34ORn3?si=bd0e2f8511fa40a9)
 
 <h3 align="left">Languages and Tools:</h3>
